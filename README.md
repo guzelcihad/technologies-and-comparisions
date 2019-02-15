@@ -129,6 +129,13 @@ Includes technology information, principles , concepts and comparisions used in 
 - [EMQ - EMQ X enterprise](https://www.emqx.io/products/enterprise)
 - [MQTT brokers - Google Drive](https://drive.google.com/drive/folders/13hvf72qNwIMt8ELu0XVsheA55uoCWLTn)
 
+# TIME SERIES DATABASE - INFLUXDB
+- [influxdb_2017.pdf](https://cs.ulb.ac.be/public/_media/teaching/influxdb_2017.pdf)
+- [An introduction to InfluxDB](https://www.linkedin.com/pulse/introduction-influxdb-kristof-bruylants)
+- [InfluxDB: The Good, the Bad, and the Ugly](https://bluefox.io/influxdb-good-bad-ugly)
+- [What the heck is time-series data (and why do I need a time-series database)?](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563/)
+- [Introduction to Time Series Databases](https://www.youtube.com/watch?v=Z6pghPlZ1vQ)
+
 
 
 
