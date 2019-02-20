@@ -136,7 +136,16 @@ Includes technology information, principles , concepts and comparisions used in 
 - [What the heck is time-series data (and why do I need a time-series database)?](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563/)
 - [Introduction to Time Series Databases](https://www.youtube.com/watch?v=Z6pghPlZ1vQ)
 
-
+# KAFKA - MQTT
+- [Scaling MQTT Using Kafka](https://www.youtube.com/watch?v=VoTclkxSago)
+- [From MQTT to Kafka with Connect and Stream Reactor](https://www.landoop.com/blog/2017/01/mqtt-kafka-connect-with-ais-data/)
+- [MQTT to Kafka to InfluxDB. Orchestrate the IoT data flows](https://www.landoop.com/videos/mqtt-to-kafka-to-influxdb-for-iot-data/)
+- [MQTT. Apache Kafka. InfluxDB. SQL. IoT harmony.](https://medium.com/landoop/mqtt-kafka-influxdb-sql-iot-harmony-52a01a7d9bdc)
+- [What is the difference between MQTT broker and Apache Kafka](https://stackoverflow.com/questions/37391827/what-is-the-difference-between-mqtt-broker-and-apache-kafka)
+- [How can Kafka mqtt connector send mqtt topic as key?](https://stackoverflow.com/questions/53370576/how-can-kafka-mqtt-connector-send-mqtt-topic-as-key)
+- [Bridges](https://emqx-enterprise-docs-en.readthedocs.io/en/latest/bridges.html)
+- [IoT and Apache Kafka](https://www.cloudkarafka.com/blog/2017-08-23-apache-kafka-iot.html)
+- [how is Kafka different from Mosquitto(MQTT) ](IoT and Apache Kafka)
 
 
 
