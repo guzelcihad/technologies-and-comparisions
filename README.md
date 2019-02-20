@@ -145,7 +145,7 @@ Includes technology information, principles , concepts and comparisions used in 
 - [How can Kafka mqtt connector send mqtt topic as key?](https://stackoverflow.com/questions/53370576/how-can-kafka-mqtt-connector-send-mqtt-topic-as-key)
 - [Bridges](https://emqx-enterprise-docs-en.readthedocs.io/en/latest/bridges.html)
 - [IoT and Apache Kafka](https://www.cloudkarafka.com/blog/2017-08-23-apache-kafka-iot.html)
-- [how is Kafka different from Mosquitto(MQTT) ](IoT and Apache Kafka)
+- [how is Kafka different from Mosquitto(MQTT) ](https://community.hortonworks.com/questions/194376/how-is-kafka-different-from-mosquittomqtt.html)
 
 
 
