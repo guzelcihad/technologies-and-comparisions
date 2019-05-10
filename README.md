@@ -5,6 +5,12 @@ Includes technology information, principles , concepts and comparisions used in 
 - [OPC UA Ep. 2 | Server - YouTube](https://www.youtube.com/watch?v=NbKeBfK3pfk&list=PLWw98q-Xe7iGf-c4b6zF0bnJA9avEN_mF&index=2)
 - [opc ua - YouTube](https://www.youtube.com/results?search_query=opc+ua)
 - [It can’t be delivered without the right Address, even in OPC UA - Real Time Automation, Inc.](https://www.rtaautomation.com/rtas-blog/it-cant-be-delivered-without-the-right-address-even-in-opc-ua/)
+- [Embedded OPC UA Stack](http://documentation.unified-automation.com/uasdkhp/1.0.0/html/_l2_ua_node_ids.html)
+- [How to Make Your OPC-UA Based Data Accessible and Useable with the Tempus IIoT NiFi OPC-UA Bundle](https://medium.com/hashmapinc/how-to-make-your-opc-ua-based-data-accessible-and-useable-with-the-tempus-iiot-nifi-opc-ua-bundle-3890804800d0)
+- [Why the OPC UA Standard – and What’s Next?](https://blogs.microsoft.com/iot/2018/04/11/why-the-opc-ua-standard-and-whats-next/)
+- [Load Data from OPC UA to HDFS](https://www.striim.com/integrations/opc-ua-hdfs/)
+- [OPC UA and the Internet](https://www.rtautomation.com/rtas-blog/opc-ua-and-the-internet/)
+- [Book](https://www.google.com/search?ei=Vf6_XOaSJq-Fk74Pge-VkAc&q=OPC+UA+%E2%80%93+Unified+Architecture%3A+The+Everyman%E2%80%99s+Guide+to+the+Most+Important+Information+Technology+in+Industrial+Automation+ebooks&oq=OPC+UA+%E2%80%93+Unified+Architecture%3A+The+Everyman%E2%80%99s+Guide+to+the+Most+Important+Information+Technology+in+Industrial+Automation+ebooks&gs_l=psy-ab.3...125457.126670..126837...0.0..0.0.0.......0....1..gws-wiz.YG6ABlliADE)
 
 # KEPSERVER
 - [1.OPC-Siemens S7-1200 Haberleşmesi- KepServer"PLC Automation Training-OPC Communication" - YouTube](https://www.youtube.com/watch?v=_DIkp0t3x7Y)
@@ -27,7 +33,7 @@ Includes technology information, principles , concepts and comparisions used in 
 - [Simulation Mode](https://www.kepware.com/getattachment/bb4c6130-a63b-48aa-acfa-9290aff400d6/simulation-mode.pdf)
 - [Solved: How do I simulate random tag values against a dev... - PTC Community](https://community.ptc.com/t5/ThingWorx-Developers/How-do-I-simulate-random-tag-values-against-a-device-in-kepware/td-p/545582)
 - [Search - PTC Community](https://community.ptc.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&filter=location&location=forum-board:iottechtips&q=mqtt)
-
+- [UseCase](https://www.kepware.com/getattachment/6bee278f-2b1a-406a-a66b-f8ea1d1be1c4/Iot-Gateway-Provides-Faurecia-Traceability-Data.pdf)
 
 # SIEMENS SINUMERIK
 - [Configuration Manual SINUMERIK Access MyMachine / OPC UA](file:///C:/Users/cguzel/Downloads/840Dsl_828D_OPCUA_config_man_0818_en-US.pdf)
@@ -81,6 +87,12 @@ Includes technology information, principles , concepts and comparisions used in 
 - [In automation, what is the difference between PLC, NC, and CNC (in layman’s terms)? Is one more advanced than another, or are the controllers used for different machinery? - Quora](https://www.quora.com/In-automation-what-is-the-difference-between-PLC-NC-and-CNC-in-layman%E2%80%99s-terms-Is-one-more-advanced-than-another-or-are-the-controllers-used-for-different-machinery)
 - [CNC Makineleri Tarihçesi | CNC Nedir](https://www.elektrikport.com/teknik-kutuphane/adim-adim-cnc-makineleri/12381#ad-image-0)
 - [titletitle](https://dspace.cvut.cz/bitstream/handle/10467/68419/F3-BP-2017-Hanak-Miroslav-Advanced_PLC_Programming_Methods.pdf)
+- [Sinutrain](https://www.automation.siemens.com/CNC4You/en/wbt/start.html)
+- [SINUMERIK 840D sl/
+840D/840Di/810D ](https://cache.industry.siemens.com/dl/files/233/108869233/att_825441/v1/PG_0805_en.pdf)
+- [Basic Intro to CNC programming ](https://www.youtube.com/watch?v=LZtQBA9wtjo)
+- [Introduction to Computer Numerical Control](https://www.edx.org/course/introduction-to-computer-numerical-control)
+- [Forum](https://support.industry.siemens.com/tf/WW/en/posts/840d-write-from-nc-to-plc/5915?page=0&pageSize=10)
 
 # SIEMENS SINUMERIK CNC INSTALLATION
 - [SİEMENS SİNUMERİK CNC SİMULATOR KURULUMU - YouTube](https://www.youtube.com/watch?v=VgG9K0pevp4)
@@ -96,6 +108,7 @@ Includes technology information, principles , concepts and comparisions used in 
 
 # SPARKS STREAMING
 - [Spark Streaming and IoT - Databricks](https://databricks.com/session/spark-streaming-and-iot)
+- [Getting Data into Spark Streaming](https://www.sigmoid.com/getting-data-into-spark-streaming-2/)
 
 # MQTT
 - [Getting to know MQTT – IBM Developer](https://developer.ibm.com/articles/iot-mqtt-why-good-for-iot/)
@@ -103,6 +116,7 @@ Includes technology information, principles , concepts and comparisions used in 
 - [VerneMQ - A MQTT broker that is scalable, enterprise ready, and open source](https://vernemq.com/)
 - [MQTT Essentials Part 6: Quality of Service 0, 1 & 2](https://www.hivemq.com/blog/mqtt-essentials-part-6-mqtt-quality-of-service-levels/)
 - [There’s more to life than HTTP: VerneMQ a high-performance and distributed MQTT broker](https://notamonadtutorial.com/theres-more-to-life-than-http-vernemq-an-mqtt-broker-aa64ccdfb430)
+- [Getting to know MQTT – IBM Developer](https://www.hivemq.com/blog/clustering-mqtt-introduction-benefits/)
 
 # AT LEAST ONCE EXACTLY ONCE
 - [cassandra - difference between exactly-once and at-least-once guarantees - Stack Overflow](https://stackoverflow.com/questions/44204973/difference-between-exactly-once-and-at-least-once-guarantees)
@@ -146,6 +160,100 @@ Includes technology information, principles , concepts and comparisions used in 
 - [Bridges](https://emqx-enterprise-docs-en.readthedocs.io/en/latest/bridges.html)
 - [IoT and Apache Kafka](https://www.cloudkarafka.com/blog/2017-08-23-apache-kafka-iot.html)
 - [how is Kafka different from Mosquitto(MQTT) ](https://community.hortonworks.com/questions/194376/how-is-kafka-different-from-mosquittomqtt.html)
+- [Scaling MQTT Using Kafka](https://www.youtube.com/watch?v=VoTclkxSago)
+- [From MQTT to Kafka with Connect and Stream Reactor](https://lenses.io/blog/2017/01/mqtt-kafka-connect-with-ais-data/)
+- [How can Kafka mqtt connector send mqtt topic as key?](https://stackoverflow.com/questions/53370576/how-can-kafka-mqtt-connector-send-mqtt-topic-as-key)
+- [IoT and Apache Kafka](https://www.cloudkarafka.com/blog/2017-08-23-apache-kafka-iot.html)
+
+# HIVEMQ
+- [HiveMQ Forum](https://community.hivemq.com/)
+- [HiveMQ Editions](https://www.hivemq.com/hivemq/editions/)
+- [HiveMQ Extension for Kafka](https://www.hivemq.com/extension/hivemq-kafka-extension/)
+
+# WHY MQTT?
+- [IBM BLOG](https://developer.ibm.com/articles/iot-mqtt-why-good-for-iot/)
+- [Choosing an MQTT broker for your IoT project](https://blog.autsoft.hu/choosing-an-mqtt-broker-for-your-iot-project/)
+- [HiveMQ Blog](https://www.hivemq.com/blog/mqtt-essentials-part-6-mqtt-quality-of-service-levels/)
+- [Broker Selection](https://notamonadtutorial.com/theres-more-to-life-than-http-vernemq-an-mqtt-broker-aa64ccdfb430)
+- [Coursera](https://www.coursera.org/lecture/developer-iot/mqtt-TjFg9)
+- [Linkedin Comparision](https://www.slideshare.net/paolopat/mqtt-iot-protocols-comparison)
+- [What’s Wrong with MQTT?](https://www.rtautomation.com/mqtt/whats-wrong-with-mqtt/)
+- [IoT Developer Survey 2018](https://www.slideshare.net/Eclipse-IoT/iot-developer-survey-2018-130998751?qid=4b9ad3fb-a87f-4137-9947-6524549294d5&v=&b=&from_search=5)
+
+# SPARK + KAFKA
+- [Realtime Risk Management Using Kafka, Python, and Spark Streaming](https://databricks.com/session/realtime-risk-management-using-kafka-python-and-spark-streaming)
+- [Video Stream Analytics Using OpenCV, Kafka and Spark Technologies](https://www.infoq.com/articles/video-stream-analytics-opencv)
+- [Pandas vs. Spark: how to handle dataframes](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
+- [From Pandas to Apache Spark’s DataFrame](https://databricks.com/blog/2015/08/12/from-pandas-to-apache-sparks-dataframe.html)
+
+# PAHO
+- [Paho](https://projects.eclipse.org/projects/iot.paho)
+- [HiveMq](https://www.hivemq.com/blog/mqtt-client-library-encyclopedia-eclipse-paho-java/)
+- [Paho Client](https://www.eclipse.org/paho/clients/java/)
+
+# MQTT PERSISTENCY
+- [Messaging Reliability and Persistence with the MQTT Protocol](https://thenewstack.io/messaging-reliability-persistence-mqtt/)
+- [Message persistence in MQTT clients](https://www.ibm.com/support/knowledgecenter/en/SSFKSJ_7.5.0/com.ibm.mm.tc.doc/tc60320_.htm)
+
+# KAFKA
+- [An Overview of Kafka Distributed Message System](https://www.alibabacloud.com/blog/an-overview-of-kafka-distributed-message-system_594218)
+- [Announcing Kafka Connect: Building large-scale low-latency data pipelines](https://www.confluent.io/blog/announcing-kafka-connect-building-large-scale-low-latency-data-pipelines/)
+- [Kafka connect or Kafka Client](https://stackoverflow.com/questions/40702860/kafka-connect-or-kafka-client)
+- [Why We Replaced Our Kafka Connector with a Kafka Consumer](https://hackernoon.com/why-we-replaced-our-kafka-connector-with-a-kafka-consumer-972e56bebb23)
+- [Connector Developer Guide](https://docs.confluent.io/current/connect/devguide.html)
+- [Kafka: The Definitive Guide](http://repo.desakupemalang.id/materi/Internet-of-Things/Kafka%20The%20Definitive%20Guide%20Real-time%20data%20and%20stream%20processing%20at%20scale%201st%20Edition%202016%20%7BPRG%7D.pdf)
+- [kafka-connect-http](https://github.com/thomaskwscott/kafka-connect-http)
+- [kafka-connect-storage-cloud](https://github.com/confluentinc/kafka-connect-storage-cloud/tree/master/kafka-connect-s3/src/main/java/io/confluent/connect/s3)
+- [kafka-connect-twitter
+](https://github.com/jcustenborder/kafka-connect-twitter/blob/master/src/main/java/com/github/jcustenborder/kafka/connect/twitter/TwitterSourceTask.java)
+- [kafka-mqtt-connector](https://github.com/kallura/kafka-mqtt-connector)
+- [Apache Kafka and Confluent
+Enterprise Reference Architecture](https://www.confluent.io/wp-content/uploads/apache-kafka-confluent-enterprise-ref-architecture.pdf)
+- [Connector Development Guide](http://kafka.apache.org/documentation/#connect_development)
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [Robust Message Serialization in Apache Kafka Using ](https://blog.cloudera.com/blog/2018/07/robust-message-serialization-in-apache-kafka-using-apache-avro-part-1/)
+- [Comparing Apache Kafka, Amazon Kinesis, Microsoft Event Hubs and Google Pub/Sub](https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html)
+- [Lessons learned form Kafka in production](https://www.youtube.com/watch?v=1vLMuWsfMcA)
+
+
+
+# KAFKA BOOKS
+  - [BOOK1](http://the-eye.eu/public/concen.org/Nonfiction.Ebook.Pack.Oct.2015-PHC/9781491909331.O%27Reilly%20Media.I%20Heart%20Logs.Jay%20Kreps.2014.pdf)
+- [BOOK2](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
+- [BOOK3](https://www.oreilly.com/iot/free/)
+- [BOOK4](https://www.oreilly.com/data/free/)
+
+# IOT
+- [AN END-TO-END OPEN SOURCE ARCHITECTURE
+FOR THE INTERNET OF THINGS (IOT)
+](https://cdn.oreillystatic.com/en/assets/1/event/261/An%20open%20source%20architecture%20for%20the%20IoT%20Presentation.pdf)
+- [Eclipse Hono – Connecting large numbers of IoT devices](hhttps://blog.bosch-si.com/developer/eclipse-hono-connecting-large-numbers-of-iot-devices/)
+- [Building Open Source IoT Cloud](https://www.slideshare.net/dejanb/building-open-source-iot-cloud)
+- [When NOT to Use Modbus](https://www.rtautomation.com/rtas-blog/when-not-to-use-modbus/)
+- [IIoT Protocol Comparison	](https://skkynet.com/iiot-protocol-comparison/)
+- [MODBUS OPC SERVER](https://cogentdatahub.com/products/datahub-modbus-opc-server/)
+- [Modbus Protokolü](https://www.roltek.com.tr/blog/modbus-protokolu/)
+- [MODBUS TCP vs. MODBUS RTU](https://www.rtautomation.com/rtas-blog/modbus-tcp-vs-modbus-rtu/)
+- [Modbus RTU verses Modbus TCP/IP: What's the Difference?](https://www.linkedin.com/pulse/modbus-rtu-verses-tcpip-whats-difference-david-bohn)
+- [Modbus FAQ: About The Modbus Organization](http://www.modbus.org/faq.php)
+- [Real-Time Streaming Data Pipelines with Apache APIs: Kafka, Spark Streaming, and HBase](https://mapr.com/blog/real-time-streaming-data-pipelines-apache-apis-kafka-spark-streaming-and-hbase/)
+
+
+# IOT-SCADA
+- [Industrial IoT is the new tech on the block, but can it take on the SCADA?](https://medium.com/the-why-and-how/industrial-iot-is-the-new-tech-on-the-block-but-can-it-take-on-the-scada-68110fbd2b2f)
+- [Using SCADA data for IIoT just became much easier](https://www.trendminer.com/using-scada-data-iiot-just-became-much-easier/)
+- [DATA LOGGER/SCADA INTEGRATION SAVES TIME FOR FIELD CREWS, PERMITS EARLY WARNING OF PROBLEMS](https://www.wqpmag.com/data-loggerscada-integration-saves-time-field-crews-permits-early-warning-problems)
+- [4 Key Differences Between SCADA and Industrial IoT](https://www.linkedin.com/pulse/4-key-differences-between-scada-industrial-iot-kudzai-manditereza)
+
+# IOT MONITORING
+- [Prometheus vs. Graphite: Which Should You Choose for Time Series or Monitoring?](https://logz.io/blog/prometheus-vs-graphite/)
+- [Monitoring Containerized Application Health with Docker](https://www.pluralsight.com/courses/monitoring-containerized-app-health-docker)
+- [What the heck is time-series data (and why do I need a time-series database)?](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563/)
+
+# MTCONNECT
+- [The Difference between MTConnect and OPC UA](https://www.mmsonline.com/columns/the-difference-between-mtconnect-and-opc-ua)
+- [MTConnect](http://www.opcturkey.com/mtconnect-tr)
+- [MTConnect](https://www.mtconnect.org/getting-started)
 
 
 
