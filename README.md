@@ -256,5 +256,26 @@ FOR THE INTERNET OF THINGS (IOT)
 - [MTConnect](https://www.mtconnect.org/getting-started)
 
 
+# PWA (Progressive Web Apps)
+- [What are Progressive Web Apps?](https://web.dev/what-are-pwas/)
+- [Progressive Web Apps](https://ionicframework.com/docs/core-concepts/what-are-progressive-web-apps)
+- [What are Progressive Web Apps?](https://ionicframework.com/blog/what-is-a-progressive-web-app/)
+- [Seriously, though. What is a progressive web app?](https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093)
+
+# Vaadin 
+- [What is Vaadin? A faster approach to Java web applications](https://developer.ibm.com/dwblog/2017/what-is-vaadin-java-web-applications/)
+- [What is your evaluation of Vaadin framework in 2018?](https://www.quora.com/What-is-your-evaluation-of-Vaadin-framework-in-2018)
+- [Vaadin Courses](https://vaadin.com/learn/training/v14-intro)
+- [Progressive Web Apps: The Big Picture](https://app.pluralsight.com/library/courses/progressive-web-apps-big-picture/table-of-contents)
+- [Vaadin 14 Simplifies Progressive Web App Development on the Java Platform](https://www.infoq.com/news/2019/08/vaadin-releases-lts-version-14/)
+- [VAADIN BASICS](https://vaadin.com/faq)
+
+# Why Vaadin?
+- [5 Reasons Why Enterprises Use Vaadin For Their Web Application UI Needs](https://medium.com/@ankurmans/an-open-letter-to-all-enterprise-level-business-web-application-decision-makers-446527292627)
+- [WEB FRAMEWORK COMPARISON FOR JAVA DEVS](https://vaadin.com/comparison)
+- [Evaluating Vaadin: Strengths and Weaknesses](https://phauer.com/2015/evaluating-vaadin-strengths-weaknesses/)
+- [WHY VAADIN IS DIFFERENT - AND HOW CAN IT MAKE YOUR WEB APPLICATION GREAT](http://blog.tomeklipski.com/2012/04/why-vaadin-is-different-and-how-can-it.html)
+- [Angular vs Vaadin](https://stackshare.io/stackups/angularjs-vs-vaadin)
+- [VAADIN VS ANGULAR COMPARISON](https://pages.vaadin.com/vaadin-vs-angular)
 
 
