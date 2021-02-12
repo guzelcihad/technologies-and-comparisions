@@ -278,4 +278,13 @@ FOR THE INTERNET OF THINGS (IOT)
 - [Angular vs Vaadin](https://stackshare.io/stackups/angularjs-vs-vaadin)
 - [VAADIN VS ANGULAR COMPARISON](https://pages.vaadin.com/vaadin-vs-angular)
 
+# Kafka vs Pulsar vs RabbitMq
+- [Confluent](https://www.confluent.io/kafka-vs-pulsar/)
+
+# Kafka vs Pulsar
+- [Pulsar vs Kafka – Comparison and Myths Explored](https://www.kai-waehner.de/blog/2020/06/09/apache-kafka-versus-apache-pulsar-event-streaming-comparison-features-myths-explored/)
+
+# SQS vs SNS
+- [Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5)
+
 
